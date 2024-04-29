@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\patient\\frm_pricesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\patient\\frm_pricesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\communal\\frm_loginbypassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\communal\\frm_loginbypassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\patient\\frm_pricesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\patient\\frm_pricesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\patient\\frm_personalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\patient\\frm_personalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\patient\\frm_personalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\patient\\frm_personalcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\patient\\frm_medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\patient\\frm_medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\patient\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\patient\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\patient\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\patient\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\doctor\\frm_modifyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\doctor\\frm_modifyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\doctor\\frm_modifyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\doctor\\frm_modifyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\doctor\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\doctor\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\communal\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\communal\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\doctor\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\doctor\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\communal\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\communal\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\communal\\frm_loginbypassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\communal\\frm_loginbypassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\communal\\frm_loginbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\communal\\frm_loginbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|d:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\outpatientcharge\\outpatientcharges2.0\\outpatientcharges2.0\\communal\\frm_loginbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0100D248-C371-4E9E-AA16-BE5CBD51CEB6}|OutpatientCharges2.0\\OutpatientCharges2.0.csproj|solutionrelative:outpatientcharges2.0\\communal\\frm_loginbyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_PriceSearch.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowKsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T10:13:00.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_PriceSearch.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Patient\\frm_PriceSearch.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:05:54.097Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_PersonalCenter.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAywMQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:05:43.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_MedicalRecord.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_MedicalRecord.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Patient\\frm_MedicalRecord.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_MedicalRecord.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Patient\\frm_MedicalRecord.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:05:25.136Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_LoginByPassword.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:02.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_PersonalCenter.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Patient\\frm_PersonalCenter.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:05:42.057Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Home.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_Home.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Patient\\frm_Home.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_Home.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Patient\\frm_Home.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:05:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_Home.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_Home.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Patient\\frm_Home.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Patient\\frm_Home.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Patient\\frm_Home.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:05:14.419Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_ModifyPrice.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAswIYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:51.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_ModifyPrice.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Doctor\\frm_ModifyPrice.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:50.065Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_Home.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_Home.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Doctor\\frm_Home.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_Home.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Doctor\\frm_Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:21.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frm_Home.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_Home.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Doctor\\frm_Home.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Doctor\\frm_Home.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Doctor\\frm_Home.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:19.96Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frm_Register.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_Register.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Communal\\frm_Register.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_Register.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Communal\\frm_Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:11.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frm_Register.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_Register.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Communal\\frm_Register.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_Register.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Communal\\frm_Register.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:09.725Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frm_LoginByPassword.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Communal\\frm_LoginByPassword.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:04:00.411Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frm_LoginByEmail.cs",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs",
+              "RelativeToolTip": "OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAA9wEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:03:49.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_LoginByEmail.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs",
+              "RelativeDocumentMoniker": "OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs",
+              "ToolTip": "D:\\\u95E8\u8BCA\u6536\u8D39\u6A21\u5757\\OutpatientCharge\\OutpatientCharges2.0\\OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OutpatientCharges2.0\\Communal\\frm_LoginByEmail.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:03:41.3Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
